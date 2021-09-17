@@ -2,4 +2,4 @@
 - 👀 I’m interested in TypeScript
 - 🌱 I’m currently learning my course
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me ...[instagram](www.instagram.com/priya_ktpr)
+- 📫 How to reach me ...
